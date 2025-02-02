@@ -1,8 +1,9 @@
 // Brute force solution 
 #include <bits/stdc++.h>
+#include <vector>
 class Solution {
 public:
-    int reversePairs(vector<int>& nums) {
+    int reversePairs(std::vector<int>& nums) {
         int n = nums.size() ;
         
         long long  pairs = 0 ; 
