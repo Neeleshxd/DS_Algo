@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
 | [0966-binary-subarrays-with-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,8 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0966-binary-subarrays-with-sum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
