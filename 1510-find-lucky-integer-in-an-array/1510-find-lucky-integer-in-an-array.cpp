@@ -7,12 +7,12 @@ public:
         for( int& x : arr ){
             mp[x]++; 
         }
-        int ans = -1 ; 
+        int luckyinteger = -1 ; 
         for( int i = 0 ; i < n ; i++){
            if(mp[arr[i]] == arr[i]){
-             ans = max(arr[i],ans) ; 
+             luckyinteger = max(arr[i],luckyinteger) ; 
            }
         }
-        return ans ; 
+        return luckyinteger ; 
     }
 };
