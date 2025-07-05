@@ -8,7 +8,7 @@ public:
         int ans = 0 ;
         while( j < n){
         if( nums[j] == 0 ) count_zero++ ; 
-         while( count_zero > 1){
+         if( count_zero > 1){
                 if( nums[i] == 0 ){
                     count_zero--; 
                 }
