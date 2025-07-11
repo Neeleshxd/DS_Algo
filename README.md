@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeleshxd/DS_Algo/tree/master/0160-intersection-of-two-linked-lists) |
 | [0966-binary-subarrays-with-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0148-sort-list) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -172,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
