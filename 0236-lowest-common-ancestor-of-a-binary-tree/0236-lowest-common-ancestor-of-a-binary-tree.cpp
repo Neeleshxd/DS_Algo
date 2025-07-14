@@ -8,17 +8,33 @@
  * };
  */
 class Solution {
-public:
+public:  
+    bool solve(TreeNode*root,TreeNode*target,vector<TreeNode*>&temp ){
+        if( root == nullptr ) return false  ; 
+        temp.push_back(root) ;
+        if( root == target ){
+        return true ; 
+        }
+        if (solve(root->left, target, temp) || solve(root->right, target, temp)){
+        return true;
+    }
+        temp.pop_back() ; 
+        return false ; 
+    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == nullptr ) return root ; 
-        
-        if( root == p || root == q ) return root  ; 
-         TreeNode*leftN =  lowestCommonAncestor(root->left,p,q) ;
-         TreeNode*rightN =  lowestCommonAncestor(root->right,p,q) ;
-        
-        if( leftN != nullptr && rightN != nullptr ) return root ; 
-        if(leftN != nullptr ) return leftN ;
-        
-        return rightN ; 
+        vector<TreeNode*>temp1,temp2 ; 
+        solve(root, p,temp1) ; 
+        solve( root, q,temp2) ; 
+        int i = 0 ;
+        int j = 0 ;
+        TreeNode*ans = nullptr ; 
+        while( i < temp1.size() && j < temp2.size()){
+            if( temp1[i] == temp2[j]){
+            ans = temp1[i] ; 
+            }
+            i++; 
+            j++; 
+        }
+     return ans ; 
     }
 };
