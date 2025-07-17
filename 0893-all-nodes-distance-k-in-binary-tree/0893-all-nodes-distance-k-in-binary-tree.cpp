@@ -36,7 +36,7 @@ public:
                     q.push(curr->right) ;
                     visited.insert(curr->right->val) ; 
                 }
-                if( parent.count(curr) && !visited.count(parent[curr]->val)){
+                if( parent.find(curr) != parent.end() && !visited.count(parent[curr]->val)){
                     q.push(parent[curr]) ;
                     visited.insert(parent[curr]->val) ; 
                 }
