@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neeleshxd/DS_Algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeleshxd/DS_Algo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neeleshxd/DS_Algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0908-middle-of-the-linked-list) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neeleshxd/DS_Algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Neeleshxd/DS_Algo/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
