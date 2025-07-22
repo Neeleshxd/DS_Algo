@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Neeleshxd/DS_Algo/tree/master/0035-search-insert-position) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Neeleshxd/DS_Algo/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neeleshxd/DS_Algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Neeleshxd/DS_Algo/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
