@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Neeleshxd/DS_Algo/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
+| [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neeleshxd/DS_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Neeleshxd/DS_Algo/tree/master/0567-permutation-in-string) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Neeleshxd/DS_Algo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeleshxd/DS_Algo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neeleshxd/DS_Algo/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Neeleshxd/DS_Algo/tree/master/0567-permutation-in-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
