@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Neeleshxd/DS_Algo/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/Neeleshxd/DS_Algo/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Neeleshxd/DS_Algo/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Neeleshxd/DS_Algo/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
