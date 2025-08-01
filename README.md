@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Neeleshxd/DS_Algo/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Neeleshxd/DS_Algo/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neeleshxd/DS_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/Neeleshxd/DS_Algo/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
