@@ -1,10 +1,10 @@
 class Solution {
 public:
     int threshold_range(vector<int> nums,int t,int mid  ){ 
+        int sum = 0 ;
         for( int i = 0 ; i < nums.size() ; i++ ){
-            nums[i] = (nums[i] + mid - 1 ) / mid ; 
+            sum  += (nums[i] + mid - 1 ) / mid ; 
         }
-        int sum = accumulate(nums.begin(),nums.end(),0) ; 
         return sum ; 
     }
     int smallestDivisor(vector<int>& nums, int threshold) {
