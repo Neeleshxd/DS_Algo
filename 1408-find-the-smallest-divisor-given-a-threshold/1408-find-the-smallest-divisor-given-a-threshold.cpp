@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int threshold_range(vector<int> nums,int t,int mid  ){ 
+    int threshold_range(vector<int>& nums,int t,int mid  ){ 
         int sum = 0 ;
         for( int i = 0 ; i < nums.size() ; i++ ){
             sum  += (nums[i] + mid - 1 ) / mid ; 
