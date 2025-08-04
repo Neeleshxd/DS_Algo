@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Neeleshxd/DS_Algo/tree/master/0222-count-complete-tree-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neeleshxd/DS_Algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Neeleshxd/DS_Algo/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Neeleshxd/DS_Algo/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
@@ -142,12 +144,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Neeleshxd/DS_Algo/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
 |  |
