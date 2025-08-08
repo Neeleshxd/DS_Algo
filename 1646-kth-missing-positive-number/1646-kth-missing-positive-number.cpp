@@ -1,22 +1,22 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        unordered_map<int,int>mp ;
-        for(int x : arr ){
-            mp[x]++; 
-        }
         int n = arr.size() ; 
-        int count = 0; 
-        int max_num = *max_element(arr.begin(),arr.end()) ; 
-        for( int i = 1 ; i <= max_num + k  ; i++ ){
-            if( mp.find(i) == mp.end()){
-                count++; 
+        int num = 1 ; 
+        int i = 0;
+
+        while( i < n && k > 0 ){
+            if( arr[i] == num ){
+                i++;
+            }else{
+                k--; 
             }
-            if( count ==  k ){
-                return i ; 
-                break ; 
-            }
+            num++; 
         }
-        return -1 ; 
+        while(k){
+            num++;
+            k--; 
+        }
+    return num -1 ; 
     }
 };
