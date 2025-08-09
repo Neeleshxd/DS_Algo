@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Neeleshxd/DS_Algo/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Neeleshxd/DS_Algo/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Neeleshxd/DS_Algo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Neeleshxd/DS_Algo/tree/master/0075-sort-colors) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Neeleshxd/DS_Algo/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -386,5 +388,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Neeleshxd/DS_Algo/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
