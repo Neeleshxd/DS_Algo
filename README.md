@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Neeleshxd/DS_Algo/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Neeleshxd/DS_Algo/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Neeleshxd/DS_Algo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neeleshxd/DS_Algo/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Neeleshxd/DS_Algo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Neeleshxd/DS_Algo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Neeleshxd/DS_Algo/tree/master/0222-count-complete-tree-nodes) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
