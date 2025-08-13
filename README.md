@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Neeleshxd/DS_Algo/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Neeleshxd/DS_Algo/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Neeleshxd/DS_Algo/tree/master/0054-spiral-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Neeleshxd/DS_Algo/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Neeleshxd/DS_Algo/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0148-sort-list) |
