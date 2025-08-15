@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Neeleshxd/DS_Algo/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Neeleshxd/DS_Algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Neeleshxd/DS_Algo/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Neeleshxd/DS_Algo/tree/master/0198-house-robber) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
