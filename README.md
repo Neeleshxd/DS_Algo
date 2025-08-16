@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Neeleshxd/DS_Algo/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0213-house-robber-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Linked List
 |  |
 | ------- |
