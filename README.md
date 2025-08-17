@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0213-house-robber-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Neeleshxd/DS_Algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0300-longest-increasing-subsequence) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Neeleshxd/DS_Algo/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Neeleshxd/DS_Algo/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Neeleshxd/DS_Algo/tree/master/0792-binary-search) |
