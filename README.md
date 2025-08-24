@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Neeleshxd/DS_Algo/tree/master/0792-binary-search) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Neeleshxd/DS_Algo/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Neeleshxd/DS_Algo/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Neeleshxd/DS_Algo/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/Neeleshxd/DS_Algo/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/Neeleshxd/DS_Algo/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Neeleshxd/DS_Algo/tree/master/0907-koko-eating-bananas) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
