@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Neeleshxd/DS_Algo/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Neeleshxd/DS_Algo/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Neeleshxd/DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Neeleshxd/DS_Algo/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Neeleshxd/DS_Algo/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Neeleshxd/DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/Neeleshxd/DS_Algo/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Neeleshxd/DS_Algo/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Neeleshxd/DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Neeleshxd/DS_Algo/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Neeleshxd/DS_Algo/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Neeleshxd/DS_Algo/tree/master/0141-linked-list-cycle) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Neeleshxd/DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neeleshxd/DS_Algo/tree/master/0144-binary-tree-preorder-traversal) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Neeleshxd/DS_Algo/tree/master/0042-trapping-rain-water) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
 ## Binary Search Tree
 |  |
