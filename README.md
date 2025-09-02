@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Neeleshxd/DS_Algo/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Neeleshxd/DS_Algo/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Neeleshxd/DS_Algo/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Neeleshxd/DS_Algo/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Neeleshxd/DS_Algo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Neeleshxd/DS_Algo/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Neeleshxd/DS_Algo/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Neeleshxd/DS_Algo/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Neeleshxd/DS_Algo/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Neeleshxd/DS_Algo/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
