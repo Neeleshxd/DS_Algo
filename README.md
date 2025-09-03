@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Neeleshxd/DS_Algo/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0518-coin-change-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Neeleshxd/DS_Algo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Neeleshxd/DS_Algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
