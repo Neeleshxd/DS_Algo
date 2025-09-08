@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Neeleshxd/DS_Algo/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Neeleshxd/DS_Algo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
