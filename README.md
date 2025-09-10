@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Neeleshxd/DS_Algo/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Neeleshxd/DS_Algo/tree/master/1646-kth-missing-positive-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Neeleshxd/DS_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Neeleshxd/DS_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Stack
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Neeleshxd/DS_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
