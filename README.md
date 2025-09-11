@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Neeleshxd/DS_Algo/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Neeleshxd/DS_Algo/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/1250-longest-common-subsequence) |
+| [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Neeleshxd/DS_Algo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
