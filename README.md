@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Neeleshxd/DS_Algo/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/1250-longest-common-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
+| [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Neeleshxd/DS_Algo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Simulation
@@ -481,4 +483,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Neeleshxd/DS_Algo/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
