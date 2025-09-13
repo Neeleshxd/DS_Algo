@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/1250-longest-common-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Neeleshxd/DS_Algo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Neeleshxd/DS_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Neeleshxd/DS_Algo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Neeleshxd/DS_Algo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Tree
 |  |
 | ------- |
