@@ -5,18 +5,18 @@ public:
     }
     int maxFreqSum(string s) {
         int n = s.size() ; 
-        unordered_map<char,int>mp ; 
+        vector<int>mp(26,0);  
 
         for(char ch : s ){
-            mp[ch]++; 
+            mp[ch-'a']++; 
         }
         int max_vowel = 0 ;
         int max_consonants = 0 ; 
-        for( int i = 0 ;i < n ; i++ ){
-            if( isvowel(s[i])){
-             max_vowel = max(max_vowel,mp[s[i]]) ; 
+        for( char x : s  ){
+            if( isvowel(x)){
+             max_vowel = max(max_vowel,mp[x-'a']) ; 
             }else{
-                max_consonants = max(max_consonants,mp[s[i]]) ; 
+                max_consonants = max(max_consonants,mp[x-'a']) ; 
             }
         }
         return max_vowel + max_consonants ;  
