@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Neeleshxd/DS_Algo/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Neeleshxd/DS_Algo/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Neeleshxd/DS_Algo/tree/master/0131-palindrome-partitioning) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Neeleshxd/DS_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neeleshxd/DS_Algo/tree/master/0424-longest-repeating-character-replacement) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Neeleshxd/DS_Algo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Neeleshxd/DS_Algo/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Neeleshxd/DS_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/Neeleshxd/DS_Algo/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Neeleshxd/DS_Algo/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Neeleshxd/DS_Algo/tree/master/0424-longest-repeating-character-replacement) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Neeleshxd/DS_Algo/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Neeleshxd/DS_Algo/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Neeleshxd/DS_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Neeleshxd/DS_Algo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
