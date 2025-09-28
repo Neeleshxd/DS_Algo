@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0954-maximum-sum-circular-subarray) |
 | [0966-binary-subarrays-with-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/Neeleshxd/DS_Algo/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Neeleshxd/DS_Algo/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Neeleshxd/DS_Algo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Neeleshxd/DS_Algo/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/Neeleshxd/DS_Algo/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Neeleshxd/DS_Algo/tree/master/1018-largest-perimeter-triangle) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Neeleshxd/DS_Algo/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Neeleshxd/DS_Algo/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
+| [1018-largest-perimeter-triangle](https://github.com/Neeleshxd/DS_Algo/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Neeleshxd/DS_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/0646-maximum-length-of-pair-chain) |
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
+| [1018-largest-perimeter-triangle](https://github.com/Neeleshxd/DS_Algo/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
