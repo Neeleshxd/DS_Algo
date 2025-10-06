@@ -1,21 +1,20 @@
 class Solution {
 public:
-    vector<vector<int>>result ; 
-    vector<int>temp ; 
-    void solve( vector<int>& nums,int idx ){
-        int n = nums.size() ; 
-        if( idx >= n ){
-            result.push_back(temp) ; 
-            return ; 
-        }
-        temp.push_back(nums[idx]) ; 
-        solve(nums,idx+1) ;
-
-        temp.pop_back() ; 
-        solve(nums,idx+1) ; 
+   void solve(int idx ,vector<int>& nums, vector<vector<int>>&result,vector<int>&temp ){
+    int n = nums.size() ; 
+    if( idx >= n ){
+        result.push_back(temp) ; 
+        return ; 
     }
+    temp.push_back(nums[idx]) ; 
+    solve(idx+1,nums,result,temp) ; 
+    temp.pop_back() ;
+    solve(idx+1,nums,result,temp) ;  
+   }
     vector<vector<int>> subsets(vector<int>& nums) {
-        solve(nums,0) ;
-        return result ;  
+        vector<vector<int>>result ; 
+        vector<int>temp ; 
+        solve(0,nums,result,temp) ; 
+        return result ; 
     }
 };
