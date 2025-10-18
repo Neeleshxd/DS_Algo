@@ -1,42 +1,32 @@
-class Solution
-{
-    public:
-        vector<string> temp;
-    vector<vector < string>> result;
-    bool isPalindrome(int i, int j,string &s)
-    {
-        while (i < j)
-        {
-            if (s[i] != s[j])
-            {
-                return false;
-            }
-            i++;
-            j--;
+class Solution {
+public:
+    int n ; 
+    bool isPalindrome(string s ,int l,int r ){
+        while( l < r ){
+            if( s[l] != s[r]) return false ; 
+            l++;
+            r--;
         }
-        return true;
+        return true ; 
     }
-    void solve(string &s, int idx)
-    {
-        int n = s.size();
-        if (idx == n)
-        {
-            result.push_back(temp);
-            return;
+    void backtrack(string s , int idx , vector<string>&temp,vector<vector<string>>&result){
+        if( idx == n ){
+            result.push_back(temp) ; 
+            return ; 
         }
-        for (int i = idx; i < n; i++)
-        {
-            if (isPalindrome(idx, i,s))
-            {
-                temp.push_back(s.substr(idx, i - idx + 1));
-                solve(s, i + 1);
-                temp.pop_back();
+        for( int i = idx ; i < n ;i++ ){
+            if( isPalindrome(s,idx,i)){
+                temp.push_back(s.substr(idx,i-idx+1)) ; 
+                backtrack(s,i+1,temp,result) ; 
+                temp.pop_back() ; 
             }
         }
     }
-    vector<vector < string>> partition(string s)
-    {
-        solve(s, 0);
-        return result;
+    vector<vector<string>> partition(string s) {
+        n = s.size() ; 
+        vector<vector<string>>result ; 
+        vector<string>temp ; 
+        backtrack(s,0,temp,result) ; 
+        return result ;
     }
 };
