@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeleshxd/DS_Algo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Neeleshxd/DS_Algo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Neeleshxd/DS_Algo/tree/master/0647-palindromic-substrings) |
 | [1006-vowel-spellchecker](https://github.com/Neeleshxd/DS_Algo/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/1250-longest-common-subsequence) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeleshxd/DS_Algo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Neeleshxd/DS_Algo/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Neeleshxd/DS_Algo/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Neeleshxd/DS_Algo/tree/master/0067-add-binary) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeleshxd/DS_Algo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Neeleshxd/DS_Algo/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Neeleshxd/DS_Algo/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sliding Window
