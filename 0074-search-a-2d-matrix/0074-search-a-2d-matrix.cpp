@@ -7,8 +7,8 @@ public:
         int h = (n*m) - 1 ; 
         while( l <= h ){
             int mid = l+(h-l)/2 ; 
-            int row = mid / n ; 
-            int cols = mid % n ; 
+            int row = mid / m ; 
+            int cols = mid % m ; 
             if( matrix[row][cols] == target){
                 return true ; 
             }else if(matrix[row][cols] >= target){
