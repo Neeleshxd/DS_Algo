@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Neeleshxd/DS_Algo/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Neeleshxd/DS_Algo/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Neeleshxd/DS_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1129-longest-string-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Neeleshxd/DS_Algo/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Neeleshxd/DS_Algo/tree/master/0647-palindromic-substrings) |
 | [1006-vowel-spellchecker](https://github.com/Neeleshxd/DS_Algo/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Neeleshxd/DS_Algo/tree/master/1023-time-based-key-value-store) |
+| [1129-longest-string-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/1250-longest-common-subsequence) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Neeleshxd/DS_Algo/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Neeleshxd/DS_Algo/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Neeleshxd/DS_Algo/tree/master/0954-maximum-sum-circular-subarray) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Neeleshxd/DS_Algo/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1129-longest-string-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/Neeleshxd/DS_Algo/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/Neeleshxd/DS_Algo/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Neeleshxd/DS_Algo/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Neeleshxd/DS_Algo/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/0908-middle-of-the-linked-list) |
+| [1129-longest-string-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/1129-longest-string-chain) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Neeleshxd/DS_Algo/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Neeleshxd/DS_Algo/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Neeleshxd/DS_Algo/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/Neeleshxd/DS_Algo/tree/master/1023-time-based-key-value-store) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/1129-longest-string-chain) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Neeleshxd/DS_Algo/tree/master/1370-count-number-of-nice-subarrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Neeleshxd/DS_Algo/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Neeleshxd/DS_Algo/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -349,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/Neeleshxd/DS_Algo/tree/master/0883-car-fleet) |
 | [1018-largest-perimeter-triangle](https://github.com/Neeleshxd/DS_Algo/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Neeleshxd/DS_Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/Neeleshxd/DS_Algo/tree/master/1129-longest-string-chain) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Neeleshxd/DS_Algo/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Neeleshxd/DS_Algo/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/Neeleshxd/DS_Algo/tree/master/2887-sort-vowels-in-a-string) |
